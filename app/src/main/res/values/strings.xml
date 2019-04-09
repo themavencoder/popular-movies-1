@@ -6,4 +6,5 @@
     <string name="vote_average">Vote Average</string>
     <string name="overview">Overview</string>
     <string name="retry">RETRY</string>
+    <string name="movie_poster">Movie Poster</string>
 </resources>
