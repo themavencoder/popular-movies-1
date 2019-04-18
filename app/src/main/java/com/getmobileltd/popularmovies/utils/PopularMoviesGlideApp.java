@@ -1,4 +1,4 @@
-package com.getmobileltd.popularmovies;
+package com.getmobileltd.popularmovies.utils;
 
 import com.bumptech.glide.annotation.GlideModule;
 import com.bumptech.glide.module.AppGlideModule;
