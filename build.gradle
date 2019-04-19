@@ -18,6 +18,7 @@ ext {
     compileSdkVersion = 28
     minSdkVersion = 19
     targetSdkVersion = 28
+    timberVersion = "4.7.1"
 
 
 }
